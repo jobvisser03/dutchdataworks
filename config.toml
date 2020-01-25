@@ -29,6 +29,6 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
 
 
     [params.colors]
-        background = "#81c6ff"
-        foreground = "#edf7ff"
+        background = "#4B77BE"
+        foreground = "#4B77BE"
         hover = "#ffba82"
